@@ -1,0 +1,11 @@
+{
+  "owner": "SEN",
+  "headline": "AI와 함께 만든 데이터 도구",
+  "intro": "매주 하나씩 만들어 올립니다. 도구마다 제가 내린 판단이 하나씩 들어 있습니다.",
+  "cards": [
+    {"week": 1, "title": "최강 기아타이거즈", "line": "기아타이거즈 팬을 위한 퀴즈입니다.",
+     "judgment": "기아타이거즈 짱 김도영 짱",
+     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-dun.vercel.app", "img": "img/w1.jpg"}
+  ],
+  "proposal": null
+}
